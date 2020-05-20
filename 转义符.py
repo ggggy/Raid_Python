@@ -12,8 +12,6 @@ print(r'\\\t\\')
 
 print('\\\t\\')
 
-print('''wangyu
-wangqian''')
+print('''wangyu, wangqian''')
 
-print(r'''wangyu
-wangqian''')
+print(r'''wangyu, wangqian''')
