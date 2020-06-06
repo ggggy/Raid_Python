@@ -19,3 +19,5 @@ print(r'''wangyu, wangqian''')
 print('wangsanyu')
 
 print('danwei')
+
+print(type('danwei'))
